@@ -1,4 +1,6 @@
 __pycache__/
-*.csv
+tickers.csv
+stocks.csv
+!tickers.csv
 dashboard.html
 .vscode/
