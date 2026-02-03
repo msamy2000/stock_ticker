@@ -1,5 +1,7 @@
 # Simple Stock Tracker
 
+![Stock Tracker Dashboard](stock_ticker.png)
+
 A lightweight, local self-hosted stock tracker that runs in the background. It monitors your favorite stocks (and Gold/Silver) and generates a self-updating HTML dashboard with interactive graphs.
 
 ## Features
